@@ -2,6 +2,7 @@
 How to build a bitcoin blockchain from nothing .
 
 step 0:preparing the software
+
 step 1:build up a blockchain
 
 
