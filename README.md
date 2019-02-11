@@ -17,6 +17,29 @@ step 1:build up a blockchain
 2.about block and new_transaction  
 3.about PoW  
 
+step 2: Blockchain as an API
+---------------------------------
+We use the python Flask framework, which is a light web application framework. It can reflect the web request into python function. 
+
+And the blockchain can run in the flask web.  
+
+we will build up three applications:  
+/transactions/new   create a transaction into block  
+/mine               tell the sever to mine new block  
+/chain              return the whole blockchain  
+
+1.build up nodes  
+2.send transactions  
+3.mine  
+
+
+step3: run blockchian
+---------------------------------
+use postman to send the mine/transaction/chain-request
+
+
+step4: consensus
+---------------------------------
 
 
 
