@@ -40,6 +40,12 @@ use postman to send the mine/transaction/chain-request
 
 step4: consensus
 ---------------------------------
+before doing the consensus algorithm, we need to make a node know the other nodes. So every node should keep a record including the other nodes in the network.
+
+so we add several APIs.
+
+
+
 
 
 
