@@ -14,6 +14,9 @@ step 0:preparing the software
 
 step 1:build up a blockchain
 ---------------------------------
+1.build up a class
+2.about block and new_transaction
+3.about PoW
 
 
 
