@@ -43,8 +43,10 @@ step4: consensus
 before doing the consensus algorithm, we need to make a node know the other nodes. So every node should keep a record including the other nodes in the network.
 
 so we add several APIs.
+/nodes/register receive the new node list in URL
+/nodes/resolve run consistent algorithm, solve the conflict, ensure node own the right chain.
 
-
+consensus algorithm.
 
 
 
